@@ -4,6 +4,7 @@ package score4.model;
 
 public class Peg {
 
+    //IDEA: dont make black and white beads just set them to visible!
     //stuff for pegs
     //private int[][] pegLocation;
     private Bead[] pegHieght = new Bead[4];    //this acts like "z"
